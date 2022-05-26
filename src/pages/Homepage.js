@@ -18,13 +18,17 @@ function Homepage() {
                     <Carousel.Item>
                         <img className="d-block w-100" src="\img\main_img_1.png" />
                     </Carousel.Item>
-
                     <Carousel.Item>
                         <img className="d-block w-100" src="\img\main_img_2.png" />
                     </Carousel.Item>
-
                     <Carousel.Item>
                         <img className="d-block w-100" src="\img\main_img_3.png" />
+                    </Carousel.Item>
+                    <Carousel.Item>
+                        <img className="d-block w-100" src="\img\main_img_4.png" />
+                    </Carousel.Item>
+                    <Carousel.Item>
+                        <img className="d-block w-100" src="\img\main_img_5.png" />
                     </Carousel.Item>
                 </Carousel>
             </div>
